@@ -1,4 +1,4 @@
-# Inteligentná nalýza údajov
+# Inteligentná analýza údajov
 Fáza 1 (Prieskumná analýza): Základný opis dát spolu s ich charakteristikami, párová analýza dát, formulácia a štatistické overenie hypotéz o dátach, identifikácia problémov v dátach s navrhnutým riešením
 
 Fáza 2 (Predspracovanie údajov): Integrácia a čistenie dát, realizácia predspracovania dát, výber atribútov pre strojové učenie, replikovateľnosť predspracovania
